@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: CAMERA_SHEILD_PCB.PcbDoc   11/14/2014  1:09:07 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CAMERA_SHEILD_PCB.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15mil (0.381mm)          Round          36               6.15 Inch (156.31 mm)
+T2        40mil (1.016mm)          Round          33               6.43 Inch (163.45 mm)
+---------------------------------------------------------------------------
+Totals                                            69               12.59 Inch (319.76 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
